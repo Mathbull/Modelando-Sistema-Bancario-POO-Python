@@ -10,8 +10,7 @@
   
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/isabellazramos" target="_blank">Autor</a>
+  <a href="https://github.com/Mathbull" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -56,4 +55,8 @@ Para utilizar o sistema, execute o arquivo `banco_poo.py`. Isso iniciará a inte
 Contribuições são muito bem-vindas! 
 Se você encontrar algum problema, bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+Feito com :heart: por <a href="https://github.com/Mathbull" target="_blank">Matheus Santos</a>
 
+&#xa0;
+
+<a href="#top">Voltar para o topo</a>
