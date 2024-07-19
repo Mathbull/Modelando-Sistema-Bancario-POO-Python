@@ -51,7 +51,7 @@ O código é organizado em diversas classes e funções:
 ## ▶️ Como Usar
 Para utilizar o sistema, execute o arquivo `banco_poo.py`. Isso iniciará a interação com o sistema bancário, permitindo que você escolha diversas opções do menu para criar clientes, contas bancárias, realizar transações e visualizar extratos.
 
-## Contribuições
+## 💬 Contribuições
 Contribuições são muito bem-vindas! 
 Se você encontrar algum problema, bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
